@@ -1,0 +1,124 @@
+{"input": "What did George Cantor discover?", "output": "There are multiple sizes of infinity (uncountable and countable ones)."}
+{"input": "What did David Hilbert do?", "output": "He aspired to prove the foundations of mathematics. He believed there are axioms that are proven to be true that can justify the foundations of mathematics."}
+{"input": "What did Kurt Godel believe?", "output": "Mathematics is not complete or consistent."}
+{"input": "What is a Turing Machine?", "output": "It manipulates symbols through a rule-based system on an abstract tape. It can calculate everything that is calculable, and it built on Cantor’s discoveries."}
+{"input": "Why is the Turing Machine important?", "output": "It proves that math is not decidable."}
+{"input": "What is the Computability Thesis?", "output": "Also known as the Church-Turing thesis, it is a function on the natural numbers that can be calculated if and only if it is Turing computable."}
+{"input": "What does the Halting Problem prove?", "output": "No program can decide for every possible program and input, whether the program and input will halt."}
+{"input": "How can representation matter to understanding?", "output": "Elizabeth Anscombe says that the description can make a difference. If we think of Pessoa’s reading, the level at which something is described affects how well we can understand it. For example, if we look at a sorting function, we can explain this through coding, English, or images; however, to describe it at a proton and electron level does not make sense and many of us could not do."}
+{"input": "Can machines think?", "output": "Turing believes that this question is too ambiguous; what sort of machines are we talking about? It is also too vague; what does ‘can’ mean? (can it borderline do it?). Instead, ask whether a machine could convince a human it was a human, also known as the Turing test."}
+{"input": "What are issues with the Turing test?", "output": "It asks whether a machine could convince a human it was a human, which is vague and brings up questions about what truly passes the Turing test. Essentially, it only asks about behavior and not its internal makeup. It also depends on how savvy the human is and aware of trickery (like chatbots) and must focus on asking good questions."}
+{"input": "What did Terry Winograd do?", "output": "He promoted a rule-based way of thinking that worked really well in the online environment because it was constrained and very limited (SHRDLU and blocks world)."}
+{"input": "What did Noam Chomsky do?", "output": "He applied rule-based thinking to syntax. For example, 'Colorless green ideas sleep furiously' is syntactically good but semantically bad."}
+{"input": "How much intelligence is manipulating rules?", "output": "If it's all symbol manipulation, then Turing machines can reach intelligence."}
+{"input": "What is GOFAI?", "output": "Also known as symbolic AI, it is the manipulation of symbols according to strict rules."}
+{"input": "In what ways does playing chess resemble symbol manipulation?", "output": "Pieces are symbols that can only move according to certain rules. However, players also think about strategies, possible openings, and what their opponents might do, which goes beyond symbol manipulation."}
+{"input": "How intelligent is GOFAI?", "output": "Winograd used pronoun resolution statements that were interpreted incorrectly by AI, proving that AI cannot disambiguate pronouns."}
+{"input": "What are categorical rules?", "output": "Rules that can be applied in every circumstance regardless of who you are (e.g., 'It' as a pronoun should not be used for humans)."}
+{"input": "In Old Fashioned AI, how is knowledge represented?", "output": "Knowledge is in the form of 'if … then' (hypothetical rules). According to GOFAI, all relevant information is in 'if … then' form."}
+{"input": "What is important when interpreting rules?", "output": "The context of a rule is important; there can be canonical exceptions to the rule but we still believe the rule is true (e.g., deer are herbivores but they occasionally eat rabbit meat). Rules demonstrate that lots of knowledge is used to interpret a rule and knowledge is relevant."}
+{"input": "What does Dreyfus write about skill and representation?", "output": "Skill involves representation, and being emotionally involved promotes skill learning and paying attention to the right things feels good. 'The expert is simply not following any rules!'"}
+{"input": "What are the five tiers of skill according to Dreyfus?", "output": "Novice, advanced beginner, competence, proficiency, and expertise."}
+{"input": "What characterizes the Beginner & Novice stage?", "output": "Rule-based learning."}
+{"input": "What characterizes the Competency stage?", "output": "Emotional involvement shows what’s relevant."}
+{"input": "What characterizes the Proficiency & Expertise stages?", "output": "Rules are replaced with intuition."}
+{"input": "What is a deductively valid argument?", "output": "If the argument’s premises are true, then its conclusions must be true."}
+{"input": "What is a deductively sound argument?", "output": "Its premises are true and the argument is valid."}
+{"input": "What is an inductive argument?", "output": "The premises tell us something about the conclusion, but it is not certain."}
+{"input": "What was mainstream AI like into the 1980s?", "output": "Transparent, explicit representations, and deductive inference."}
+{"input": "What is the Physical Symbol Systems Hypothesis (PSSH)?", "output": "Symbols are physically instantiated, manipulated by strict rules, arbitrarily associated with referents, and are the necessary and sufficient means for general intelligent action."}
+{"input": "What did René Descartes say about thinking and existence?", "output": "“I think, therefore I am”; he wanted to ground the idea that we exist through clear and distinct ideas."}
+{"input": "What is Rationalism?", "output": "Our nature provides us with knowledge of some truths and concepts, which undergird other truths and concepts."}
+{"input": "How does Samantha demonstrate memory and deductive inference in 'Her'?", "output": "She keeps track of all paths Theodore takes and deduces the right path in the video game; she recognizes a test when the NPC starts swearing at him."}
+{"input": "How do Behaviorists approach language?", "output": "They believe language is entirely learned (Watson, Skinner)."}
+{"input": "How do Chomskyans approach language?", "output": "They believe language is at least in part innate because there are too many behavior hypotheses for a child to consider."}
+{"input": "What is the shift from behaviorism to Chomskyism?", "output": "A shift from performance to competence."}
+{"input": "What does Theodore's letter writing in 'Her' demonstrate?", "output": "Skill, flexibility, perception, and reasonable inference."}
+{"input": "How does Theodore use deductive inference in 'Her'?", "output": "He overrides Samantha’s assumption about people and uses deductive inference effectively."}
+{"input": "What is the difference in perception between humans and robots?", "output": "Robots perceive everything and figure out what is relevant, while humans fill in the blanks in perception."}
+{"input": "What are behavioral robots like in the 1980s?", "output": "Simple behaviors arranged in a hierarchy, without representation."}
+{"input": "What did Rodney Brooks say about the world and intelligence?", "output": "“The world is its own best model”; “Intelligence is determined by the dynamics of interaction with the world.”"}
+{"input": "What are the '4E' approaches to cognition?", "output": "Embodied, Embedded, Extended, Enactive."}
+{"input": "What does 'Embodied' mean in the 4E approach?", "output": "The body can constrain concepts and is part of the cognitive system."}
+{"input": "What does 'Embedded' mean in the 4E approach?", "output": "Cognitive tasks can be made easier by the environment."}
+{"input": "What does 'Extended' mean in the 4E approach?", "output": "Environmental and social resources can be part of the cognitive system."}
+{"input": "What does 'Enactive' mean in the 4E approach?", "output": "Cognition and perception involve sensorimotor activity."}
+{"input": "What is an example of the Enactive approach?", "output": "The kitten carousel, where a passive kitten struggles to move around because it hasn’t interacted with the environment."}
+{"input": "What does Samantha in 'Her' fail to understand about embodiment?", "output": "She tells Theodore to spin, not understanding he can get dizzy, and says 'I figured you were hungry' without understanding hunger."}
+{"input": "How does Samantha demonstrate embedded cognition in 'Her'?", "output": "She tells Theodore to stop or else he will hit a wall, without understanding physical pain."}
+{"input": "What is the significance of the 4E method in ethics?", "output": "Knowing how to do something is important to action, perception, reason, knowledge of facts, and ethical thought and judgment."}
+{"input": "What did Immanuel Kant say about respect for persons?", "output": "Treat people as ends in themselves, we are all equal with legitimate goals and ends."}
+{"input": "What uses of AI exhibit respect for persons?", "output": "AI that respects the autonomy and dignity of individuals."}
+{"input": "What uses of AI do not exhibit respect for persons?", "output": "AI that manipulates or deceives individuals, such as signing for someone without permission."}
+{"input": "What did Walter Pitts & Warren McCulloch contribute to AI?", "output": "They applied the basic structure of neurons to AI."}
+{"input": "What did Frank Rosenblatt develop?", "output": "Neural networks and the perceptron model."}
+{"input": "How do humans learn to play games compared to deep reinforcement learning?", "output": "Humans understand games conceptually and can adapt to variability, while deep reinforcement learning can be confused by small changes."}
+{"input": "What is the opacity issue in neural networks?", "output": "While we have a general idea of how neural networks work, we can't precisely predict how changing one weight will affect the output."}
+{"input": "What characterizes mainstream AI now?", "output": "Mainstream AI is characterized by opaque, distributed representation and statistical inference."}
+{"input": "What is the hardware lottery in deep learning?", "output": "The idea that the usefulness of deep learning was realized only after developing the necessary hardware; hardware needs to bring AI ideas to fruition."}
+{"input": "What does Richard Sutton believe about AI development?", "output": "Sutton believes we should develop hardware for the ideas already out there and as we do, aspects of behavioral and symbolic AI may become more useful in the future."}
+{"input": "What is Hebbian learning?", "output": "The principle that 'cells that fire together, wire together.'"}
+{"input": "How does evolution influence AI learning?", "output": "AI, like DeepMind's walking AI, can learn behaviors without evolutionary pressures, unlike humans who have evolved to learn efficiently due to survival needs. Because there's no risk of injury or need for energy conservation, DeepMind’s AI walks unevenly and inefficiently, unlike humans."}
+{"input": "What did Esther Thelen discover about learning in babies?", "output": "The body constrains what the nervous system learns, making learning easier. Babies' musculature helps them learn to walk."}
+{"input": "What is predictive processing according to Pessoa?", "output": "Vision is active and guided by computations that anticipate valuable future information, influenced by evolutionary pressures since we can’t take in all information so we will predict what is most important."}
+{"input": "What is synaptic rewiring?", "output": "Changes in neuron connections, strengthening the connections that fire together."}
+{"input": "What does Richard Sutton think about implementing the mind in software?", "output": "He believes the mind's complexity makes it difficult to implement in software, suggesting we should focus on creating systems that learn like humans."}
+{"input": "What is Jacob's belief about intellect and emotion?", "output": "Jacob incorrectly believes intellect overpowers emotion, while they are actually intertwined."}
+{"input": "What is ‘Biology’s axiom’?", "output": "The belief that different structures imply different functions, which is misleading as structures can have overlapping or the same functions."}
+{"input": "What is functionalism in AI?", "output": "The idea that mental states are identified by their functional role, not by physical implementation."}
+{"input": "What is reductionism and why can it be misleading?", "output": "Reductionism understands complexity through subparts but can be misleading without strict division of subparts."}
+{"input": "What is a ‘minimal brain’ and its significance?", "output": "A minimal brain allows essential survival behaviors and action flexibility by uncoupling sensory and motor components."}
+{"input": "How does perception integrate with emotion and motivation?", "output": "Emotional and motivational variables help navigate the environment, not just reflexes."}
+{"input": "What is the McGurk effect?", "output": "An example of how perception is affected by context, demonstrating sensory integration."}
+{"input": "What is the classical theory of concepts?", "output": "Necessary and sufficient conditions define concepts."}
+{"input": "What is the prototype theory of concepts?", "output": "Concepts have statistically common properties."}
+{"input": "What is the Theory-theory of concepts?", "output": "Concepts gain content from their roles in theories."}
+{"input": "What does Wittgenstein say about measuring and belief?", "output": "Measuring should be repeatable and correctable, akin to public standards for belief. If we do not have these public standards, it is very easy for people to ‘cheat’ or change their story to make it sound like they are in the right."}
+{"input": "What does Wittgenstein say about language and judgments?", "output": "“If language is to be a means of communication there must be agreement not only in definitions but also. . . in judgments . . . ”. For example, A red tomato takes into account the interior, but a car does not."}
+{"input": "What does Pessoa say about different types of fear?", "output": "There are many types of fear, not just one, and the amygdala is not the sole region for fear-related learning."}
+{"input": "What does Lisa Feldman Barrett argue about emotions?", "output": "Emotions are human creations, and fear can have many forms across different cultures and contexts."}
+{"input": "What is the role of attention in perception according to Pessoa?", "output": "Perception involves picking up on the significance of objects, and the amygdala is connected to selective information processing since fear can direct your attention."}
+{"input": "What is the 'spiral' problem in tensorflow?", "output": "It is caused by how the network is global rather than local like humans (updates every connection, not just one); also it does not have the bodily experience of drawing a spiral or dizziness. Therefore, the spiral never becomes smooth, and remains a set of jagged lines."}
+{"input": "What does Wittgenstein believe about fear?", "output": "Fear can just be a reflection of your present state; there are many ways to express fear with different tones in different contexts. To understand what ‘I am frightened’ refers to, we should look at the context in which it occurs."}
+{"input": "What is ‘Direction of Fit’?", "output": "Beliefs aim to fit the world, desires aim to fit the world to them."}
+{"input": "How does direction of fit apply to emotions?", "output": "Emotions are both belief and desire-like."}
+{"input": "How does direction of fit apply to emotions?", "output": "AI is only belief-like (maximizes utility but does not desire it). AI doesn’t care if it doesn’t fit the world, it just gives an output, no desire. If we want AI to give more correct answers, we need to add emotion/desire."}
+{"input": "What does Brooks believe about performance and competence?", "output": "We generalize from observing performance at one task to guess at a bigger competence over a much bigger set of tasks. This is because this is usually true about humans but not transformers and other language models."}
+{"input": "What does Allison Gopnik say about LLMs?", "output": "LLMs are cultural technology (enables us to pass information over generations)."}
+{"input": "What is the difference between token/event and type causation?", "output": "Token/event causation is a very particular cause/event, while type causations are reasonable generalizations."}
+{"input": "How is the LSRI a weapon of math destruction?", "output": "LSRI predicts how likely someone is gonna go to prison again; longer prison time = more likely to return to prison. The algorithm is then used and makes that person go to prison, which increases prison time, which when used again makes the person return to prison, …. This makes the algorithm look more accurate."}
+{"input": "What is a Weapon of Math Destruction (WMD)?", "output": "A model that contributes to a toxic cycle and helps to sustain it. There are three elements of a WMD: opacity (not clear how the system works), scale (affects a lot of people), and damage."}
+{"input": "What does Gramsci believe about philosophy?", "output": "All men are philosophers and this philosophy is contained in: language (determined notions and concepts), ‘common sense’, and system of beliefs, superstitions, opinions, etc."}
+{"input": "What is hegemony?", "output": "A process where pressure is applied to single individuals to obtain their consent and collaboration, turning necessity and coercion into freedom."}
+{"input": "What does Plato believe about reality?", "output": "We never see the world past illusion, instead philosophy is what gets us the closest. The world is an illusion with reality behind it."}
+{"input": "What does Gramsci believe about reality?", "output": "Ideology influences the way you see reality, and you can never get past it."}
+{"input": "What is strong AI?", "output": "AI that involves consciousness and self-awareness. In other words, 'the idea of machines that are, like us, conscious, self-aware, truly autonomous beings.'"}
+{"input": "How are feedback loops related to direction of fit?", "output": "Feedback loops use both directions of fit. They also have opacity (gets really complicated by taking in more facts), scale (strengthens itself by encompassing more people), and damage."}
+{"input": "What are Cathy O’Neils thoughts on job hiring?", "output": "Tests ask unreasonable questions that are put into an opaque algorithm that is only effective enough for the company. Since we don’t interview people that weren’t hired, how do we know that the algorithm didn’t cut out somebody that would’ve been really successful? Since these algorithms are used on a large scale, it could be an infringement of rights."}
+{"input": "What did the St. George situation described by O’Neil demonstrate?", "output": "Computers developed the same discriminatory practices as those who made the program because it was meant to replicate the same procedure as human beings."}
+{"input": "Who is responsible for damage done by WMDs?", "output": "On their own, WMDs don’t do any damage; it’s only through people’s use of them that they do damage."}
+{"input": "Are Facebook and Google WMDs?", "output": "No, because there’s no evidence that companies are using their intentions to cause harm."}
+{"input": "What are Brooks’ thoughts in 'What Will Transformers Transform?'", "output": "LLMs will become more available and cause misinformation, making reliance on expertise more discredited because LLMs make so much noise that it's harder to find information put out there by experts."}
+{"input": "What does Marcus say about Google?", "output": "Google should make search more like ChatGPT to avoid misinformation; rather than giving you a list of ideas, it takes you to an accurate source."}
+{"input": "How is the brain a heterarchy?", "output": "There is no leader; all parts of the brain work together as a group."}
+{"input": "What is emergence?", "output": "Higher levels can’t be explained in terms of lower levels."}
+{"input": "Why should AI have fear?", "output": "Fear is related to intelligent action because it involves fear of getting things wrong. Thus, without it, mistakes do not matter to AI, and there is no incentive to learn."}
+{"input": "What is Extinction learning?", "output": "A conditioned stimulus no longer predicts the unconditioned stimulus to which it was paired in the past. Extinction is more than a simple form of inhibition; it is a form of learning where extinction memory formation involves processes like those used for learning in general."}
+{"input": "What do glitches in a system signal?", "output": "Glitches are signals rather than distractions that signal biases in their internal structures. Glitches are evidence that AI shapes human behavior."}
+{"input": "How can AI affect jobs?", "output": "Replacement - AI can replace routine jobs. Enhancement - AI can make jobs easier by doing routine tasks, which leads to alienation. Surveillance - AI can ensure we are doing our jobs. This eventually leads to alienation from people and their jobs: from what we produce, our creative powers, and from each other."}
+{"input": "What is Aimov’s first law?", "output": "A robot may not injure a human or, through inaction, allow a human to come to harm. The problem with this is that you have to weigh harms to benefits. For example, a vaccine causes temporary harm for long-term benefit."}
+{"input": "What is Aimov’s second law?", "output": "A robot must obey orders given by humans except where they would conflict with the First Law."}
+{"input": "What is Aimov’s third law?", "output": "A robot must protect its own existence as long as this does not conflict with the First or Second Laws."}
+{"input": "What is the problem with Aimov’s laws?", "output": "They aren’t straightforward to interpret."}
+{"input": "How do Wittgenstein’s beliefs apply to AI?", "output": "We need to have agreements in judgments about AI and to do this we need to understand how AI works and what it does."}
+{"input": "What does Judith Thomson say about Ethics?", "output": "It’s difficult to specify exactly what ethical principles are true; there are some exceptions."}
+{"input": "What is Judith Thompson’s approach to the trolley problem?", "output": "In the trolley problem, you let five people die or kill one person. Killing is worse than letting die. But in some circumstances, it is the same. So, you must look at all cases because it depends on the situation."}
+{"input": "What are sci-fi futures for AGI?", "output": "AGI, the singularity, misaligned values, evil robots, Amara’s law, and suitcase words."}
+{"input": "What is AGI?", "output": "A sci-fi future where we will build autonomous agents that operate much like beings in the world."}
+{"input": "What is Singularity?", "output": "A sci-fi future where something becomes much better than humans; human-created AI creates AI better than human AI, which creates even better AI."}
+{"input": "What are misaligned values in terms of sci-fi futures?", "output": "AI is good at execution of tasks but does not share human values, leading to problems."}
+{"input": "What are evil robots in terms of sci-fi futures?", "output": "Values of AI are actively against humans."}
+{"input": "What is Amara’s law?", "output": "We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run."}
+{"input": "What are suitcase words?", "output": "Words with huge ambiguity; 'learning' for example. This causes misinterpretations of the capabilities of AI."}
+{"input": "What are problems with utilitarianism?", "output": "Figuring out how much time to spend calculating utilities; cutting up one person to save five; helping a friend or loved one because that will maximize utility."}
+{"input": "What is the difference between Wooldridge’s and Brooks’s approaches to AGI?", "output": "Wooldridge = intellectual capabilities, Brooks = autonomous abilities."}
