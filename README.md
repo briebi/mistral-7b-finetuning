@@ -14,10 +14,10 @@ The Mistral 7B model has been fine-tuned to improve its handling of specialized 
 
 ## Files
 
-m-finetune_results.ipynb: Contains the Jupyter Notebook I used to train the LLM, with all the corresponding outputs.
-m-finetune_empty.ipynb: Empty Jupyter Notebook you can use to run on your own device
-notes.jsonl: Series of question-answer pairs I generated from my AI philosophy course notes; used to train Mistral 7B
-notes-validation.jsonl: Series of question-answer pairs used for validation in training Mistral 7B
+**m-finetune_results.ipynb**: Contains the Jupyter Notebook I used to train the LLM, with all the corresponding outputs.
+**m-finetune_empty.ipynb**: Empty Jupyter Notebook you can use to run on your own device
+**notes.jsonl**: Series of question-answer pairs I generated from my AI philosophy course notes; used to train Mistral 7B
+**notes-validation.jsonl**: Series of question-answer pairs used for validation in training Mistral 7B
 
 ## Installation
 
